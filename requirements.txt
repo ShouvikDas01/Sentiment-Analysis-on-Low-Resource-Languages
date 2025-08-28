@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+transformers
+tqdm
+nest_asyncio
+googletrans==4.0.0rc1
+nltk
+matplotlib
+seaborn
